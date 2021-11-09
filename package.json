@@ -1,0 +1,26 @@
+{
+  "name": "hardhat-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivaShanmuganathan/HardhatBootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivaShanmuganathan/HardhatBootcamp/issues"
+  },
+  "homepage": "https://github.com/ShivaShanmuganathan/HardhatBootcamp#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.8"
+  }
+}

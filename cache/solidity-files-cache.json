@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/shiva/playground/hardhat-bootcamp/contracts/ERC20Basic.sol": {
+      "lastModificationDate": 1636437016764,
+      "contentHash": "4f5a820c74bce576c738218f33445c0d",
+      "sourceName": "contracts/ERC20Basic.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.7.3"
+      ],
+      "artifacts": [
+        "ERC20Basic",
+        "IERC20",
+        "SafeMath"
+      ]
+    },
+    "/home/shiva/playground/hardhat-bootcamp/contracts/MyFirstContract.sol": {
+      "lastModificationDate": 1636436651234,
+      "contentHash": "f34d1513120edbfb82cf561a062c0a84",
+      "sourceName": "contracts/MyFirstContract.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.7.3"
+      ],
+      "artifacts": [
+        "MyFirstContract"
+      ]
+    }
+  }
+}
